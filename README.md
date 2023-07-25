@@ -1,2 +1,1 @@
-# Tindog-App
-Cool app for dogs.
+TinDog Starting Files
